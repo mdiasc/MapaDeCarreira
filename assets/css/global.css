@@ -1,0 +1,13 @@
+:root{
+    --main-color: #e8058d;
+}
+
+header{
+    background-color: var(--main-color) !important;
+}
+svg{
+    color: var(--main-color) !important;
+}
+.colorText{
+    color: var(--main-color) !important;
+}
